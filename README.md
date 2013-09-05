@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-Just for testing some github features
+Just for testing some github features.
